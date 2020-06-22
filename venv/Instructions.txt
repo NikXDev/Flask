@@ -1,0 +1,3 @@
+templates - html files that we can plug
+static - files that never change like css
+2 terminals cannot work together simultaneously
